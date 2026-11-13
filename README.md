@@ -15,6 +15,7 @@ Most of my work happens after the demo: evaluation on real data, regression test
 
 | Project | What it is |
 |---|---|
+| [AppartHunt](https://github.com/SaturneAtom/AppartHunt) | An AI agent that looks for an apartment for you: Claude Code as the brain, deterministic scoring, automatic watch, desktop app. Nothing is sent without your approval. Built for my own search. |
 | [audio-to-rag](https://github.com/SaturneAtom/audio-to-rag) | Async AWS pipeline that turns meeting recordings into speaker-aware, searchable chunks (Whisper, Pyannote, Bedrock Nova, FAISS). |
 | [deepseek-runpod-handler](https://github.com/SaturneAtom/deepseek-runpod-handler) | Proof of concept: serving a 671B-parameter model on RunPod Serverless with 1-bit quantization and CPU expert offloading. |
 | [vllm-dynamic-sampling](https://github.com/SaturneAtom/vllm-dynamic-sampling) | vLLM extension for token biases and context-aware sampling rules. Includes an experiment that failed, and why. |
