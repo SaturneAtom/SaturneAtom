@@ -23,7 +23,6 @@ Most of my client work is private. I write about it on LinkedIn when I can.
 
 ## Elsewhere
 
-- Speaker at AIM 2026 (Marseille), on multi-agent systems for blood test interpretation
 - LinkedIn: [linkedin.com/in/mathieuvialatte](https://www.linkedin.com/in/mathieuvialatte)
 - Colecia, my consulting company: [colecia.com](https://colecia.com)
 
